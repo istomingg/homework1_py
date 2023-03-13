@@ -13,3 +13,4 @@ for modified_ascii_code in ascii_code:
 for new_code in new_ascii_code:
     modified_string += chr(new_code)
 
+print(modified_string)
